@@ -4,6 +4,9 @@ node_modules/
 semantic/
 .env
 
+#personal other
+.idea/
+
 # Output
 app/client/build/
 
